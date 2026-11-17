@@ -33,7 +33,7 @@ Conforme o edital, o circuito deve medir e interpretar:
 - **Potenciômetro (acelerador do barco):** terminais com 48 V; a tensão no terminal variável representa a posição do acelerador (0 V = posição 0; 48 V = posição 10).
 - **LCD:** exibe os valores do potenciômetro e da temperatura.
 
-🔗 **[Abrir o projeto simulado no Tinkercad](https://www.tinkercad.com/things/3M4xveGDgJu-controlador-de-velocidade-a-partir-de-1-potenciometro/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=p_4Hd1n5M2GiwKIocnELDb6se_sLlSwU05FmHlZsl0g)**
+🔗 **[Abrir o projeto simulado no Tinkercad](https://www.tinkercad.com/things/l8B65pETyoq/editel?sharecode=gYpOMKJ6BWxqg8QC9NXcp3xJ6ZNfg5Sa9UErpdrJzA0)**
 
 ### Materiais
 
