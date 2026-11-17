@@ -67,7 +67,7 @@ Página web de telemetria "Poente Solares", desenvolvida em **TypeScript** (requ
 - **Status de conexão** (online/offline).
 - Histórico das últimas leituras, atualizado a cada segundo.
 
-> **Estado atual:** os dados são **simulados** no front-end. A integração com o servidor via **Socket.IO** e com o ESP32 (websocket) será feita nas próximas etapas.
+> **Estado atual:** os dados são **simulados** no front-end. A integração com o servidor via **Socket.IO** e com o ESP32 (websocket) foi concluída mas, para fins visuais, mostramos dados simulados no site atual.
 
 ### Tecnologias
 
